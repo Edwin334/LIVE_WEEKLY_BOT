@@ -1,6 +1,6 @@
 # Project NEXUS - Student News 
 
-Project NEXUS is an automated system for discovering, verifying, summarizing, and translating news relevant to international students at various universities. It aims to provide a centralized and accessible source of important campus and community information.
+Project NEXUS is an automated system for discovering, verifying, summarizing, and restyling news relevant to international students at various universities. It aims to provide a centralized and accessible source of important campus and community information.
 
 ## Features
 
